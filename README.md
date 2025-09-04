@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrHacker1908
-- 👀 I’m interested in coding embedded software
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @HyperSplash
+- 👀 I’m interested in making games (on obscure platforms, specifically, which is a pain)
+- 🌱 I’m currently learning C++ and Raylib
 
 <!---
 MrHacker1908/MrHacker1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
