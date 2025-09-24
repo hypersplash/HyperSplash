@@ -1,5 +1,5 @@
 - 👋 Hey, hello, hi! The name's @HyperSplash
-- 👀 A student who's doing retro game dev and photography on the side
+- 👀 Is a student who's doing retro game dev and photography on the side
 - 🌱 Currently learning C++ and Raylib (plz help me)
 - 🖥️ My build (as for now):
   - 💻 Thinkpad E560 (AMD GPU variant)
