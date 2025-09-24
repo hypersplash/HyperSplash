@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @HyperSplash
-- 👀 I’m interested in making games (on obscure platforms, specifically, which is a pain, for a student like me)
-- 🌱 I’m currently learning C++ and Raylib
+- 👋 Hey, hello, hi! The name's @HyperSplash
+- 👀 A student who's doing retro game dev and photography on the side
+- 🌱 Currently learning C++ and Raylib (plz help me)
 - 🖥️ My build (as for now):
   - 💻 Thinkpad E560 (AMD GPU variant)
   - 💽 Intel i7-6500U
   - 🚀 16 GB (DDR3L)
+  - 📊 Intel HD 520, AMD Radeon R7 M370 (2 GB VRAM, and also dead, sad)
   - OS: 🪟 Windows 11, 🐧 Debian 13 (Trixie)
 
 <!---
