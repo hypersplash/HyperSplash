@@ -7,6 +7,7 @@
   - 🚀 16 GB (DDR3L)
   - 📊 AMD Radeon R7 M370 (2 GB VRAM, and also dead, sad)
   - OS: 🪟 Windows 11, 🐧 Debian 13 (Trixie)
+- 📱 Phone: Nokia C32 (very bad, don't buy seriously)
 
 <!---
 hypersplash/HyperSplash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
