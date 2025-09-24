@@ -4,7 +4,7 @@
 - 🖥️ My build (as for now):
   - 💻 Thinkpad E560 (AMD GPU variant)
   - 💽 Intel i7-6500U (Intel HD Graphics 520)
-  - 🚀 16 GB (DDR3L)
+  - 🚀 16 GB RAM (DDR3L), 450 GB SSD (SATA)
   - 📊 AMD Radeon R7 M370 (2 GB VRAM, and also dead, sad)
   - OS: 🪟 Windows 11, 🐧 Debian 13 (Trixie)
 - 📱 Phone: Nokia C32 (very bad, don't buy seriously)
