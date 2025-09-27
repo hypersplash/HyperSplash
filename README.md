@@ -1,7 +1,7 @@
 - 👋 Hey, hello, hi! The name's @HyperSplash
 - 👀 Is a student who's doing retro game dev and photography on the side
 - 🌱 Currently learning C++ and Raylib (plz help me)
-- 🖥️ My build (as for now):
+- 🖥️ Work build (as for now):
   - 💻 Thinkpad E560 (AMD GPU variant)
   - 💽 Intel i7-6500U (Intel HD Graphics 520)
   - 🚀 16 GB RAM (DDR3L), 450 GB SSD (SATA)
