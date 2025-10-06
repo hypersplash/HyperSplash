@@ -1,5 +1,5 @@
 Don't even know how to code a game in Python, but hey! Atleast I know how to use AI (lol)
-![](./thumbsup_cat2.jpg)
+![](./thumbsup_cat3.jpg)
 
 
 <!---
