@@ -15,7 +15,8 @@
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA" (🇻🇳 Vietnamese)
-  - Sexuality: Non-binary (Pronouns: He/they)
+  - Gender identity: Non-binary (Pronouns: He/they)
+  - Sexuality: Asexual and aromantic
 
 - ✉️ How can we contact?:
   - Email (personal): vietbachvu1984@gmail.com
