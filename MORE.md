@@ -14,7 +14,7 @@
   - Is able to do prompt engineering (not the best but is significant enough to be mentioned here)
 
 - 😶 Some personal stuff:
-  - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA" (🇻🇳 Vietnamese)
+  - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
   - Gender identity: Non-binary (Pronouns: He/they)
   - Sexuality: Asexual and aromantic
 
