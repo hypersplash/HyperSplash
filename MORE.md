@@ -25,3 +25,12 @@
   - Ko-Fi (if you wanna support my work): https://ko-fi.com/hypersplash2206/tip
   - Monero (for both payments and if you wanna support): 89pyN5xRVBpYmjkJRQWh9y14W95pHCsDJQUR4hbnQGYTHZR4NyDHmb4ES4QtBGSoUxFwtEa2ZxJYcDyokJtaKFTJKCho7h7
   - Tron (same purpose as Monero): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
+
+- 🚧 Some hardware stuff:
+  - Computer: Thinkpad E560:
+    - AMD Radeon R7 M370 (overheated and probably dead)
+    - 16 GB of DDR3L RAM
+    - 450 GB SATA SSD
+    - Intel i7 6500U
+  - Phone: Nokia C32 (✨bugs heaven✨)
+  - Watch: Casio F-94W (no I am not a Casio fanboy)
