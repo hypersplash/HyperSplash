@@ -2,7 +2,7 @@
 - 😎 The name's HyperSplash, otherwise Marcus / Bách! A fellow user of Github
 - 💻 Have been coding since 2019
 
-- Here are some informations about HyperSplash!
+- Here are some informations about me that you might find interesting otherwise necessary
 
 - 🧑🏻‍💻 Occupation:
   - High school student (yes, I can confirm I am over 15, no need to worry)
@@ -14,7 +14,7 @@
   - Is able to do prompt engineering (not the best but is significant enough to be mentioned here)
 
 - 😶 Some personal stuff:
-  - Nationality: 🇻🇳 VIETNAMESE BABY!
+  - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA" (🇻🇳 Vietnamese)
   - Sexuality: Non-binary (Pronouns: He/they)
 
 - ✉️ How can we contact?:
