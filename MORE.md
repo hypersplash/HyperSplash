@@ -12,6 +12,7 @@
   - Is able to code in Python and (to a certain extent) C++ / C
   - Is familiar to concepts of computing and is able to understand how computers work internally
   - Is able to do prompt engineering (not the best but is significant enough to be mentioned here)
+  - Is able to work and is familiar with embedded and or IoT devices
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
@@ -28,9 +29,17 @@
 
 - 🚧 Some hardware stuff:
   - Computer: Thinkpad E560:
-    - AMD Radeon R7 M370 (overheated and probably dead)
+    - AMD Radeon R7 M370 (overheated and probably dead) + Intel HD 570
     - 16 GB of DDR3L RAM
     - 450 GB SATA SSD
     - Intel i7 6500U
+    - 
   - Phone: Nokia C32 (✨bugs heaven✨)
-  - Watch: Casio F-94W (no I am not a Casio fanboy)
+  - Watch: Casio F-94W (black silicone strap, not the original resin strap)
+
+- 🧠 MENTALITY!!:
+  - Mental state: Probably fine, a bit overly stressed
+  - Disorders:
+    - OCD / Obessive Compulsive Disorder - Perfectionism (self-diagnosed)
+    - ADHD / Attention Deficit Hyperactivity Disorder (self-diagnosed)
+    - Anxiety Disorder (clinically diagnosed)
