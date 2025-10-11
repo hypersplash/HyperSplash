@@ -33,7 +33,7 @@
     - 16 GB of DDR3L RAM
     - 450 GB SATA SSD
     - Intel i7 6500U
-    - 
+
   - Phone: Nokia C32 (✨bugs heaven✨)
   - Watch: Casio F-94W (black silicone strap, not the original resin strap)
 
