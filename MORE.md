@@ -16,8 +16,7 @@
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
-  - Gender identity: Non-binary (Pronouns: He/they)
-  - Sexuality: Asexual and aromantic
+  - Gender identity: Straight and also non-binary (he/they)
 
 - ✉️ How can we contact?:
   - Email (personal): vietbachvu1984@gmail.com
@@ -35,11 +34,3 @@
     - Intel i7 6500U
 
   - Phone: Nokia C32 (✨bugs heaven✨)
-  - Watch: Casio F-94W (black silicone strap, not the original resin strap)
-
-- 🧠 MENTALITY!!:
-  - Mental state: Probably fine, a bit overly stressed
-  - Disorders:
-    - OCD / Obessive Compulsive Disorder - Perfectionism (self-diagnosed)
-    - ADHD / Attention Deficit Hyperactivity Disorder (self-diagnosed)
-    - Anxiety Disorder (clinically diagnosed)
