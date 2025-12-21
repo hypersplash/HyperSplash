@@ -16,7 +16,7 @@
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
-  - Gender identity: Straight and also non-binary (he/they)
+  - Gender identity: Straight male (he/him)
 
 - ✉️ How can we contact?:
   - Email (personal): vietbachvu1984@gmail.com
@@ -25,12 +25,13 @@
   - Ko-Fi (if you wanna support my work): https://ko-fi.com/hypersplash2206/tip
   - Monero (for both payments and if you wanna support): 89pyN5xRVBpYmjkJRQWh9y14W95pHCsDJQUR4hbnQGYTHZR4NyDHmb4ES4QtBGSoUxFwtEa2ZxJYcDyokJtaKFTJKCho7h7
   - Tron (same purpose as Monero): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
+  - DuinoCoin (same purpose as Monero): Marcus226
 
 - 🚧 Some hardware stuff:
   - Computer: Thinkpad E560:
     - AMD Radeon R7 M370 (overheated and probably dead) + Intel HD 570
     - 16 GB of DDR3L RAM
-    - 450 GB SATA SSD
+    - 450 GB SATA SSD + 128 GB SATA SSD in a bay
     - Intel i7 6500U
 
   - Phone: Nokia C32 (✨bugs heaven✨)
