@@ -1,7 +1,6 @@
-Don't even know how to code a game in Python, but hey! Atleast I know how to use AI (lol)
-![](./thumbsup_cat.jpg)
+A certified procrastinator and projects forsaker
 
-*more information about me at MORE.md*
+*more information about at MORE.md*
 
 <!---
 hypersplash/HyperSplash is a ✨ special ✨ repository because its `README.md` (this file) appears on HyperSplash's GitHub profile.
