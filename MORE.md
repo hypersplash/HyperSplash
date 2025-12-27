@@ -1,12 +1,12 @@
 - 👋🏼 Hey, hello, hi! Xin chào!
 - 😎 The name's HyperSplash, otherwise Marcus / Bách! A fellow user of Github
-- 💻 Have been coding since 2019
+- 💻 Have been coding and developing since 2019, while photographing since 2017
 
 - Here are some informations about me that you might find interesting otherwise necessary
 
 - 🧑🏻‍💻 Occupation:
   - High school student (yes, I can confirm I am over 15, no need to worry)
-  - Hobbyist coder
+  - Hobbyist software developer and photographer
 
 - ⚡ Skills:
   - Is able to code in Python and (to a certain extent) C++ / C
