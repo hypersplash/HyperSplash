@@ -1,5 +1,4 @@
 {
-  "name": "Blank Codespace with Tailscale",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "runArgs": ["--device=/dev/net/tun"],
   "features": {
