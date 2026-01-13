@@ -5,7 +5,7 @@
 - Here are some informations about me that you might find interesting otherwise necessary
 
 - 🧑🏻‍💻 Occupation:
-  - High school student (yes, I can confirm I am over 15, no need to worry)
+  - Student (yes, I can confirm I am over 15, no need to worry)
   - Hobbyist software developer and photographer
 
 - ⚡ Skills:
@@ -21,6 +21,7 @@
 - ✉️ How can we contact?:
   - Email (personal): vietbachvu1984@gmail.com
   - Email (work): dsicollective2023@gmail.com
+  - Phone (personal): (+84) 0983494226
   - PayPal (for payments only!): https://paypal.me/hypersplash
   - Ko-Fi (if you wanna support my work): https://ko-fi.com/hypersplash2206/tip
   - Monero (for both payments and if you wanna support): 89pyN5xRVBpYmjkJRQWh9y14W95pHCsDJQUR4hbnQGYTHZR4NyDHmb4ES4QtBGSoUxFwtEa2ZxJYcDyokJtaKFTJKCho7h7
