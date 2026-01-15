@@ -1,4 +1,5 @@
 {
+  "image": "debian:stable",
   "runArgs": [
     "--device=/dev/net/tun"
   ],
