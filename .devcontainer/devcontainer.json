@@ -1,5 +1,4 @@
 {
-  "name": "Tailscale Codespace",
   "runArgs": [
     "--device=/dev/net/tun"
   ],
