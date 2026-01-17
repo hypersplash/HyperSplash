@@ -1,18 +1,18 @@
 - 👋🏼 Hey, hello, hi! Xin chào!
-- 😎 The name's HyperSplash, otherwise Marcus / Bách! A fellow user of Github
+- 😎 The name's HyperSplash, otherwise Marcus / Bách!
 - 💻 Have been coding and developing since 2019, while photographing since 2017
 
-- Here are some informations about me that you might find interesting otherwise necessary
+- Here are some informations about me that you might find interesting, otherwise necessary
 
 - 🧑🏻‍💻 Occupation:
   - Student (yes, I can confirm I am over 15, no need to worry)
   - Hobbyist software developer and photographer
 
 - ⚡ Skills:
-  - Is able to code in Python and (to a certain extent) C++ / C
-  - Is familiar to concepts of computing and is able to understand how computers work internally
-  - Is able to do prompt engineering (not the best but is significant enough to be mentioned here)
-  - Is able to work and is familiar with embedded and or IoT devices
+  - Can code in Python, most of the basic web stuff like HTML and JS, and (to a certain extent) C++ / C
+  - Is familiar with concepts of computing and can understand how computers work internally
+  - Can do prompt engineering (like it's a skill, right?)
+  - Can work and is familiar with consumer embedded and IoT devices
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
@@ -24,7 +24,7 @@
   - Monero (for payments): 89pyN5xRVBpYmjkJRQWh9y14W95pHCsDJQUR4hbnQGYTHZR4NyDHmb4ES4QtBGSoUxFwtEa2ZxJYcDyokJtaKFTJKCho7h7
   - Tron (for payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
   - DuinoCoin (same purpose as Monero): Marcus226
-
+  
 - 🚧 Some hardware stuff:
   - Computer: Thinkpad E560:
     - AMD Radeon R7 M370 (overheated and probably dead) + Intel HD 570
