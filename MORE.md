@@ -25,7 +25,7 @@
   - Tron (for payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
   - DuinoCoin (same purpose as Monero): Marcus226
   
-- 🚧 Some hardware stuff:
+- 🚧 Some gadgets fact:
   - Computer: Thinkpad E560:
     - AMD Radeon R7 M370 (overheated and probably dead) + Intel HD 570
     - 16 GB of DDR3L RAM
@@ -33,3 +33,4 @@
     - Intel i7 6500U
 
   - Phone: Nokia C32 (✨bugs heaven✨)
+  - Watch: Casio MQ-71 (like, what more do you really need?)
