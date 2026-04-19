@@ -9,28 +9,24 @@
   - Hobbyist software developer and photographer
 
 - ⚡ Skills:
-  - Can code in Python, most of the basic web stuff like HTML and JS, and (to a certain extent) C++ / C
+  - Can make games and some programs in Python, Lua, most of the basic web stuff like HTML and JS, and (to a certain extent) C++ / C
   - Is familiar with concepts of computing and can understand how computers work internally
   - Can do prompt engineering (like it's a skill, right?)
-  - Can work and is familiar with consumer embedded and IoT devices
+  - Can work and is familiar with consumer embedded and IoT devices (such as ESP32s, Arduinos, and some more)
+  - Knows how to use Linux (intermediately) :3
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
   - Sexuality: Straight (he/him)
 
 - ✉️ How can we contact?:
-  - Email (work): dsicollective2023@gmail.com
-  - Ko-Fi (if you wanna support my work): https://ko-fi.com/hypersplash2206/tip
-  - Monero (for payments): 89pyN5xRVBpYmjkJRQWh9y14W95pHCsDJQUR4hbnQGYTHZR4NyDHmb4ES4QtBGSoUxFwtEa2ZxJYcDyokJtaKFTJKCho7h7
-  - Tron (for payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
-  - DuinoCoin (same purpose as Monero): Marcus226
+  - Email (work - spams will NOT, be tolerated :3): dsicollective2023@gmail.com
+  - Ko-Fi (support): https://ko-fi.com/hypersplash2206/tip
+  - Tron (payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
+  - DuinoCoin (payments): Marcus226
   
 - 🚧 Some gadgets fact:
-  - Computer: Thinkpad E560:
-    - AMD Radeon R7 M370 (overheated and probably dead) + Intel HD 570
-    - 16 GB of DDR3L RAM
-    - 450 GB + 128 GB (SATA) SSD
-    - Intel i7 6500U
+  - Computer: Mid-range Thinkpad
 
-  - Phone: Nokia C32 (✨bugs heaven✨)
-  - Watch: Casio MQ-71 (like, what more do you really need?)
+  - Phone: Android Nokia (✨bugs heaven✨)
+  - Watch: Cheap ahh Casio (like, what more do you really need?)
