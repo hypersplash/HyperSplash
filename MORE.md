@@ -16,6 +16,7 @@
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
+  - Sexuality: Straight (he/him)
 
 - ✉️ How can we contact?:
   - Email (work): dsicollective2023@gmail.com
