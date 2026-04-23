@@ -20,7 +20,7 @@
   - Sexuality: Straight (he/him)
 
 - ✉️ How can we contact?:
-  - Email (work - spams will NOT, be tolerated :3): dsicollective2023@gmail.com
+  - Telegram (personal): https://t.me/Marcus_RE226
   - Ko-Fi (support): https://ko-fi.com/hypersplash2206/tip
   - Tron (payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
   - DuinoCoin (payments): Marcus226
