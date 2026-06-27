@@ -23,10 +23,9 @@
   - Telegram (personal): https://t.me/Marcus_RE226
   - Ko-Fi (support): https://ko-fi.com/hypersplash2206/tip
   - Tron (payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
-  - DuinoCoin (payments): Marcus226
   
 - 🚧 Some gadgets fact:
-  - Computer: Mid-range Thinkpad
+  - Computer: ThinkPad E560
 
-  - Phone: Android Nokia (✨bugs heaven✨)
-  - Watch: Cheap ahh Casio (like, what more do you really need?)
+  - Phone: Nokia C32 (✨bugs heaven✨)
+  - Watch: Casio MQ-71 (like, what more do you really need?)
