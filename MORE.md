@@ -14,13 +14,14 @@
   - Can do prompt engineering (like it's a skill, right?)
   - Can work and is familiar with consumer embedded and IoT devices (such as ESP32s, Arduinos, and some more)
   - Knows how to use Linux (intermediately) :3
+  - Is familiar with most concepts of an operating systems
 
 - 😶 Some personal stuff:
   - Nationality: 🗣️ "TỪ NƠI ĐỒNG XANH THƠM HƯƠNG LÚA-" (🇻🇳 Vietnamese)
   - Sexuality: Straight (he/him)
 
 - ✉️ How can we contact?:
-  - Telegram (personal): https://t.me/Marcus_RE226
+  - Email (work): dsicollective2023@gmail.com
   - Ko-Fi (support): https://ko-fi.com/hypersplash2206/tip
   - Tron (payments): TAsEovinhGCVMNpxw7iwwFhhBg6RpfQTsE
   
