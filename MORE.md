@@ -1,6 +1,6 @@
 - 👋🏼 Hey, hello, hi! Xin chào!
 - 😎 The name's HyperSplash, otherwise Marcus / Bách!
-- 💻 Have been coding and developing since 2019, while photographing since 2017
+- 💻 Have been coding and developing since 2019, and also writing and photographing since 2017
 
 - Here are some informations about me that you might find interesting, otherwise necessary
 
@@ -12,7 +12,7 @@
   - Can make games and some programs in Python, Lua, most of the basic web stuff like HTML and JS, and (to a certain extent) C++ / C
   - Is familiar with concepts of computing and can understand how computers work internally
   - Can do prompt engineering (like it's a skill, right?)
-  - Can work and is familiar with consumer embedded and IoT devices (such as ESP32s, Arduinos, and some more)
+  - Can work and is familiar with consumer embedded and IoT devices (such as ESP32s, Arduinos, and more)
   - Knows how to use Linux (intermediately) :3
   - Is familiar with most concepts of an operating systems
 
