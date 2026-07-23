@@ -5,7 +5,7 @@
 - Here are some informations about me that you might find interesting, otherwise necessary
 
 - 🧑🏻‍💻 Occupation:
-  - Student (yes, I can confirm I am over 15, no need to worry)
+  - Student (yes, I can confirm I am over 20, no need to worry)
   - Hobbyist software developer and photographer
 
 - ⚡ Skills:
