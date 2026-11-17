@@ -1,4 +1,4 @@
-I too, have a talent in doing nothing and giving up projects that I never even started
+I too, have a talent in doing nothing and giving up projects that I never even started. Plus a chronic addiction to music, and hoarding FLACs
 
 <!---
 hypersplash/HyperSplash is a ✨ special ✨ repository because its `README.md` (this file) appears on HyperSplash's GitHub profile.
