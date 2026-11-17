@@ -1,4 +1,4 @@
-I have a talent in giving up and doing nothing :3
+I too, have a talent in doing nothing and giving up projects that I never even started
 
 <!---
 hypersplash/HyperSplash is a ✨ special ✨ repository because its `README.md` (this file) appears on HyperSplash's GitHub profile.
